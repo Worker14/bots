@@ -4,15 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\users2\\my files\\intellectual property\\code\\python\\factory_bots_or_people_4_.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\users2\\my files\\intellectual property\\code\\Python\\work4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\users2\\my files\\intellectual property\\code\\python\\work5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\users2\\my files\\intellectual property\\code\\Python\\work3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +29,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "work5.py",
-              "DocumentMoniker": "C:\\users2\\my files\\intellectual property\\code\\python\\work5.py",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\work5.py",
-              "ToolTip": "C:\\users2\\my files\\intellectual property\\code\\python\\work5.py",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\work5.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-06-16T14:34:06.2Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,35 +43,8 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\factory_bots_or_people_4_.py",
               "ToolTip": "C:\\users2\\my files\\intellectual property\\code\\python\\factory_bots_or_people_4_.py",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\factory_bots_or_people_4_.py",
-              "ViewState": "AgIAAB0AAAAAAAAAAIAwwCYAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-06-03T21:04:08.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "work4.py",
-              "DocumentMoniker": "C:\\users2\\my files\\intellectual property\\code\\python\\work4.py",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\work4.py",
-              "ToolTip": "C:\\users2\\my files\\intellectual property\\code\\python\\work4.py",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\work4.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-02-12T06:00:01.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "work3.py",
-              "DocumentMoniker": "C:\\users2\\my files\\intellectual property\\code\\python\\work3.py",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\work3.py",
-              "ToolTip": "C:\\users2\\my files\\intellectual property\\code\\python\\work3.py",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\users2\\my files\\intellectual property\\code\\python\\work3.py",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAEwJoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-02-11T20:27:51.941Z"
+              "WhenOpened": "2024-07-18T21:38:13.54Z"
             },
             {
               "$type": "Bookmark",
